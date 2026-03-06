@@ -12,11 +12,11 @@
 
 ---
 
-# Healix — Healthcare Discovery Platform
+# Healix - Healthcare Discovery Platform
 
 **Healix** is a next-generation healthcare SaaS platform that intelligently connects patients with medical professionals.
 
-Finding the right doctor shouldn't mean navigating dozens of fragmented websites, and healthcare professionals deserve better tools to manage their online presence. Healix bridges this gap. Through an SEO-optimized public portal, patients instantly discover top doctors and clinics filtered by specialty, location, and ratings. Professionals manage their profiles, appointments, and patient reviews from a single authenticated dashboard. Administrators oversee the entire platform with real-time analytics and charts. Built not on WordPress, but on clean architecture with role-based access control — a modern, scalable SaaS foundation ready for production.
+Finding the right doctor shouldn't mean navigating dozens of fragmented websites, and healthcare professionals deserve better tools to manage their online presence. Healix bridges this gap. Through an SEO-optimized public portal, patients instantly discover top doctors and clinics filtered by specialty, location, and ratings. Professionals manage their profiles, appointments, and patient reviews from a single authenticated dashboard. Administrators oversee the entire platform with real-time analytics and charts. Built not on WordPress, but on clean architecture with role-based access control. A modern, scalable SaaS foundation ready for production.
 
 ---
 
